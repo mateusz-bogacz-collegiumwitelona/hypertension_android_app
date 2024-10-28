@@ -1,0 +1,5 @@
+things to do:
+gui
+loading data from a file
+?!sending to mail
+calculations as to hypertension
